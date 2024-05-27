@@ -5,6 +5,6 @@
 -----------------------------------------------------------------
 
 
-# TOPU MD
+# KEVOO MD
 
-You can send anything via VODACOM Mpesa number 0757768881<b>Elibariki Kanuya </b>
+You can send anything via TIGO pesa number 255712682559<b>Regina minja </b>
