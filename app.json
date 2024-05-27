@@ -1,15 +1,15 @@
 {
-  "name": "Kevoo-Md"
+  "name": "𝚻𝚯𝚸𝐔-𝚳𝐃",
   "description": "Simple WhatsApp Bot",
   "logo": "https://telegra.ph/file/f0a22c61e155d42625c28.jpg",
-  "keywords": ["Kevoo-Md", "KEVOO", "Kevoomedia","KEVOO MD wabot","Kevoo","Kevootech"],
+  "keywords": ["Kevoo-md", "KEVOO", "KEVOO MD","KEVOO MD wabot","Kevoo","Kevoomedia"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "Kevoo-Md",
+      "value": "𝖙𝖔𝖕𝖚 𝖙𝖊𝖈𝖍",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "Kevoo-Md"
+      "value": "𝚻𝚯𝚸𝐔 𝚳𝐃"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -83,41 +83,3 @@
       "required": false,
       "value": "false"
     },
-    "DISABLE_PM": {
-      "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
-      "value": "false",
-      "required": "false"
-    },
-    "PREFIX": {
-      "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": "."
-    },
-    "OWNER_NUMBER": {
-      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255712682559"
-    },
-    "SESSION_ID": {
-      "description": "put your SESSION_ID here.",
-      "value": ""
-    },
-    "MODE": {
-      "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "public"
-    },
-    "PACK_NAME": {
-      "description": "Put Sticker Pack_Name.",
-      "value": "Kevoo pack",
-      "required": false
-    },
-    "PACK_AUTHER": {
-      "description": "Put Sticker Author_Name.",
-      "value": "Kevoo-Md",
-      "required": false
-    }
-  },
-  "addons": [{ "plan": "heroku-postgresql:basic" }],
-  "buildpacks": [
-    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
-    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
-  ]
-}
