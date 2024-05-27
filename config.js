@@ -13,7 +13,7 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es salaam";
-global.github = process.env.GITHUB || "https://github.com/kevoomedia/k-v--Md-";
+global.github = process.env.GITHUB || "https://github.com/kevoomedia/k-v--M";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaauR3bIHphNVGavRg2O";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaauR3bIHphNVGavRg2O";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/f0a22c61e155d42625c28.jpg";
@@ -49,10 +49,10 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝖂𝖔𝖜 𝖙𝖔𝖕𝖚 𝖒𝖉 𝖍𝖆𝖛𝖊 𝖏𝖚𝖘𝖙 𝖌𝖊𝖓𝖊𝖗𝖆𝖙𝖊𝖉 𝖆 𝖓𝖊𝖜 𝖋𝖎𝖑𝖊 ",
-  author: process.env.PACK_AUTHER || "Kevoo",
+  author: process.env.PACK_AUTHER || "Kevoo-Md",
   packname: process.env.PACK_NAME || "😜",
   botname: process.env.BOT_NAME || "Kevoo-Md",
-  ownername: process.env.OWNER_NAME || "Kevoo",
+  ownername: process.env.OWNER_NAME || "Kevoo-Md",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
