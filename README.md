@@ -5,11 +5,11 @@ if you deployed now update.. only yourself use your prefix then update.. eg. my 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+KEVOO+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+KEVOODMH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+KEVOO+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+KEVOOMD)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> KEVOO MD, A Simple WhatsApp user BOT, Created by topu Tech.
+<p align="center"> KEVOO MD, A Simple WhatsApp user BOT, Created by Kevoo Tech.
 </p>
  
 <p align="center">KEVOO MD,is currently under development stay updated
@@ -60,7 +60,7 @@ HOW TO REACH THE OWNER?
 2,GET A SESSION BY PAIR CODE
 [`Get session`](https://kevoomediascanner-af4754034f69.herokuapp.com/pair)
  
- 3,Deploy KEVOO MD on heroku***[`DEPLOY`](https://qr-code-panther-19894751f2f0.herokuapp.com/qr)***
+ 3,Deploy KEVOO MD on heroku***[`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/kevoomedia/k-v--M)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
