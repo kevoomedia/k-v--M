@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/kevoomedia/k-v--Md-.git /root/kevoomedia
+RUN git clone https://github.com/kevoomedia/k-v--M.git /root/kevoomedia
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
