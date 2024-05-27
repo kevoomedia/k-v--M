@@ -1,15 +1,15 @@
 {
-  "name": "𝚻𝚯𝚸𝐔-𝚳𝐃",
+  "name": "KEVOO-MD",
   "description": "Simple WhatsApp Bot",
   "logo": "https://telegra.ph/file/04e09c20e70de180ee319.jpg",
-  "keywords": ["Topu-md", "TOPU", "TOPU MD","TOPU MD wabot","Topu","Toputech"],
+  "keywords": ["Kevoo-Md", "KEVOO", "KEVOO MD","KEVOO MD wabot","Kevoo","Kevootech"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝖙𝖔𝖕𝖚 𝖙𝖊𝖈𝖍",
+      "value": "Kevoo-Md",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝚻𝚯𝚸𝐔 𝚳𝐃"
+      "value": "Kevoo-Md"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -94,7 +94,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255673750170"
+      "value": "255712682559"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -106,12 +106,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝖙𝖔𝖕𝖚 𝖙𝖊𝖈𝖍",
+      "value": "Kevoo pack",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "тσρυ ∂мн",
+      "value": "Kevoo-Md",
       "required": false
     }
   },
