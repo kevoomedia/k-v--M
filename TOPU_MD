@@ -1,7 +1,7 @@
 FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/kevoomedia/k-v--Md-/root/Kevoomedia
+RUN git clone https://github.com/kevoomedia/k-v--M/root/Kevoomedia
 WORKDIR /root/Kevoomedia
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
-# POWERD BY KEVOO TECH
+# POWERD BY Kevoomedia
