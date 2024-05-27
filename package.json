@@ -1,16 +1,16 @@
 {
    "name": "Kevoo-Md",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by Kevoomedia.....",
+   "description": "Multi device whatsapp bot by Kevoomedia ....",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name Kevoomedia || node .",
-      "kevoomedia ": "pm2 start . --deep-monitoring --attach --name kevoomedia || node .",
-      "start": "pm2 start . --attach --name kevoomedia",
-      "stop": "pm2 stop kevoomedia",
+      "Toputech ": "pm2 start . --deep-monitoring --attach --name Kevoomedia || node .",
+      "start": "pm2 start . --attach --name Kevoomedia",
+      "stop": "pm2 stop Kevoomedia",
       "heroku-postbuild": "git clone https://github.com/kevoomedia/k-v--M.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone ,https://github.com/kevoomedia/k-v--Md-.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "fis-heroku-postbuild": "git clone https://github.com/kevoomedia/k-v--M.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "Kevoomedia",
@@ -75,14 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/kevoomedia/k-v--M-.git"
+      "url": "git+https://github.com/kevoomedia/k-v--M.git"
    },
    "bugs": {
-      "url": "https://m/
-      
-      
-      "https://github.com/kevoomedia/k-v--M-issues"
+      "url": "https://github.com/kevoomedia/k-v--M/issues"
    },
-   "homepage": 
-   "#readme"
-}&
+   "homepage": "https://github.com/kevoomedia/k-v--M#readme"
+}
