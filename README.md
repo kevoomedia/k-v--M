@@ -58,8 +58,9 @@ HOW TO REACH THE OWNER?
 1, Star the repo up there then click Here To   [`FORK`](https://github.com/kevoomedia/k-v--Md-/fork) forking the repo is compulsory
 
 2,GET A SESSION BY PAIR CODE
-[`Get session`](https://kevoomediascanner-af4754034f69.herokuapp.com/pair)
- 
+[`pair`](https://kevooscannere-8212f081f9d7.herokuapp.com/pair)
+3,GET A SESSION BY SCANNING QR CODE
+[`Scan`]
  3,Deploy KEVOO MD on heroku***[`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/kevoomedia/k-v--M)***
 
 
