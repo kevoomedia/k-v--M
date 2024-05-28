@@ -59,8 +59,10 @@ HOW TO REACH THE OWNER?
 
 2,GET A SESSION BY PAIR CODE
 [`pair`](https://kevooscannere-8212f081f9d7.herokuapp.com/pair)
+
 3,GET A SESSION BY SCANNING QR CODE
-[`Scan`]
+[`Scan`](https://qr-code-panther-19894751f2f0.herokuapp.com/qr)
+
  3,Deploy KEVOO MD on heroku***[`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/kevoomedia/k-v--M)***
 
 
