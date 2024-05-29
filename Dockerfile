@@ -1,16 +1,16 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/kevoomedia/k-v--M.git /root/kevoomediaM
+RUN git clone https://github.com/kevoomedia/k-v--M.git /root/kevoomedia
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
-RUN rm -rf /root/kevoomediaM/node_modules
+RUN rm -rf /root/kevoomedia/node_modules
 
 # Install dependencies
-WORKDIR /root/kevoomediaM
+WORKDIR /root/kevoomedia
 RUN npm install
 
 # Add additional Steps To Run...
 EXPOSE 3000
 CMD ["npm","start" ]
-# IF YOU ARE MODIFYING THIS BOT DONT CHANGE THIS  RUN rm -rf /root/kevoomediaM/node_modules
+# IF YOU ARE MODIFYING THIS BOT DONT CHANGE THIS  RUN rm -rf /root/kevoomedia/node_modules
