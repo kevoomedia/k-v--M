@@ -6,7 +6,7 @@
    "type": "commonjs",
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name Kevoomedia || node .",
-      "Toputech ": "pm2 start . --deep-monitoring --attach --name Kevoomedia || node .",
+      "Kevoomedia ": "pm2 start . --deep-monitoring --attach --name Kevoomedia || node .",
       "start": "pm2 start . --attach --name Kevoomedia",
       "stop": "pm2 stop Kevoomedia",
       "heroku-postbuild": "git clone https://github.com/kevoomedia/k-v--M.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
